@@ -1,0 +1,1 @@
+# SQLSolution_Hackerrank
